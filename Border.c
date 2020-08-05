@@ -1,7 +1,6 @@
 /*
     It contains the code for the border for the game
-    and also contains the initial main view of the program
-*/
+    and also contains the initial main view of the program */
 #include "header.h"
 void main_init_view()
 {
