@@ -1,6 +1,5 @@
 /*
-    It checks if the players have missed to hit the ball and exits the game finally
-*/
+    It checks if the players have missed to hit the ball and exits the game finally */
 #include "header.h"
 
 void exit_game()
