@@ -1,6 +1,5 @@
 /*
-    It contains the main function
-*/
+    It contains the main function */
 
 #include "header.h"
 int main()
