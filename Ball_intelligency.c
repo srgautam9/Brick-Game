@@ -1,6 +1,5 @@
 /*
-    It contains the position for the ball and decides whether to bend the ball if it hit the wall or plank
-*/
+    It contains the position for the ball and decides whether to bend the ball if it hit the wall or plank */
 #include "header.h"
 void bend_ball()
 {
