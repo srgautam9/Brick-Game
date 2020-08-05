@@ -1,6 +1,5 @@
 /*
-    It is for the movement of the plank by the computer by taking the reference of the ball's position
-*/
+    It is for the movement of the plank by the computer by taking the reference of the ball's position */
 #include "header.h"
 void computer_ctrl()
 {
