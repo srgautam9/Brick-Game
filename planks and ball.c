@@ -1,6 +1,5 @@
 /*
-    Contains the code that prints the planks and ball for the given position
-*/
+    Contains the code that prints the planks and ball for the given position */
 #include "header.h"
 void plank1(int x,int y)
 {
