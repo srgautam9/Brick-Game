@@ -1,6 +1,5 @@
 /*
-    It has all to deal with scores and uses the concept of file handling
-*/
+    It has all to deal with scores and uses the concept of file handling */
 #include "header.h"
 void _score()
 {
