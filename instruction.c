@@ -1,6 +1,5 @@
 /*
-    This page contains the instruction for the game
-*/
+    This page contains the instruction for the game */
 void instruction()
 {
     system("COLOR 70");
