@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1473090926 source:c:\users\gautam\desktop\pong\pong\gotoxy.c
+	"header.h"
+
+1473090894 c:\users\gautam\desktop\pong\pong\header.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1473090974 source:c:\users\gautam\desktop\pong\pong\main.c
+	"header.h"
+
+1473091174 source:c:\users\gautam\desktop\pong\pong\selection_loop.c
+	"header.h"
+
+1394960686 source:c:\users\gautam\desktop\pong\pong\ball_intelligency.c
+	"header.h"
+
+1475703964 source:c:\users\gautam\desktop\pong\pong\border.c
+	"header.h"
+
+1394736104 source:c:\users\gautam\desktop\pong\pong\computer_intelligency.c
+	"header.h"
+
+1473090916 source:c:\users\gautam\desktop\pong\pong\exit_the_game.c
+	"header.h"
+
+1473090946 source:c:\users\gautam\desktop\pong\pong\in_game_score.c
+	"header.h"
+
+1393672036 source:c:\users\gautam\desktop\pong\pong\initialize all to zer0.c
+	"header.h"
+
+1487514155 source:c:\users\gautam\desktop\project\pong\pong\main.c
+	"header.h"
+
+1473090894 c:\users\gautam\desktop\project\pong\pong\header.h
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+
+1394960686 source:c:\users\gautam\desktop\project\pong\pong\ball_intelligency.c
+	"header.h"
+
+1487513915 source:c:\users\gautam\desktop\project\pong\pong\border.c
+	"header.h"
+
+1394736104 source:c:\users\gautam\desktop\project\pong\pong\computer_intelligency.c
+	"header.h"
+
+1473090916 source:c:\users\gautam\desktop\project\pong\pong\exit_the_game.c
+	"header.h"
+
+1473090926 source:c:\users\gautam\desktop\project\pong\pong\gotoxy.c
+	"header.h"
+
+1473090946 source:c:\users\gautam\desktop\project\pong\pong\in_game_score.c
+	"header.h"
+
+1393672036 source:c:\users\gautam\desktop\project\pong\pong\initialize all to zer0.c
+	"header.h"
+
+1487514067 source:c:\users\gautam\desktop\project\pong\pong\instruction.c
+
+1487513697 source:c:\users\gautam\desktop\project\pong\pong\load_credits.c
+
+1487514154 source:c:\users\gautam\desktop\project\pong\pong\new_game.c
+	"header.h"
+
+1394256420 source:c:\users\gautam\desktop\project\pong\pong\offset.c
+	"header.h"
+
+1487514448 source:c:\users\gautam\desktop\project\pong\pong\planks and ball.c
+	"header.h"
+
+1395055072 source:c:\users\gautam\desktop\project\pong\pong\score.c
+	"header.h"
+
+1473091146 source:c:\users\gautam\desktop\project\pong\pong\score_database.c
+	"header.h"
+
+1473091174 source:c:\users\gautam\desktop\project\pong\pong\selection_loop.c
+	"header.h"
+
