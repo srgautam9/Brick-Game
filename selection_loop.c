@@ -1,6 +1,5 @@
 /*
-    It contains the code for the options such as new game, controls, exit, etc.
-*/
+    It contains the code for the options such as new game, controls, exit, etc. */
 #include "header.h"
 int op_3=1,op_4=2; /*used in the case of selection of single player and multiplayer*/
 void display(int y)
