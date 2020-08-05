@@ -1,6 +1,5 @@
 /*
-    It displays the scores while the game is played
-*/
+    It displays the scores while the game is played */
 #include"header.h"
 void score_disp()
 {
