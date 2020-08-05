@@ -1,7 +1,6 @@
 /*
     It contains the codes for the new game.
-    Though there are few more functions for the computer control and player control.
-*/
+    Though there are few more functions for the computer control and player control. */
 #include "header.h"
 
 void start_the_game() /*starts the game by asking the player name*/
