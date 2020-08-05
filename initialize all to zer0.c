@@ -1,6 +1,5 @@
 /*
-    this part initializes all the values to zero
-*/
+    this part initializes all the values to zero */
 #include "header.h"
 initialize_all_to_zer0()
 {
